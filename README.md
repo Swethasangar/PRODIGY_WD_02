@@ -1,6 +1,6 @@
 # PRODIGY_WD_02
 Stopwatch Project
-A simple stopwatch application built using HTML, CSS, and JavaScript. This project allows users to start, pause, resume, reset, and record lap times.
+A simple stopwatch application built using HTML, CSS, Tailwind Css and JavaScript . This project allows users to start, pause, resume, reset, and record lap times.
 
 Features
 Start Timer: Begins the stopwatch.
